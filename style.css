@@ -40,6 +40,10 @@ h1 {
   font-family: 'Roboto', sans-serif;
 }
 
+p {
+  font-weight:lighter;
+}
+
 .btn-grey {
   background-color: slategray;
   text-decoration: none;
@@ -74,7 +78,6 @@ ul > li {
 }
 
 .profile-circle {
-  width:80px;
-  height:80px;
+  width:240px;
   border-radius: 50%;
 }
